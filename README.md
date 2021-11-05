@@ -1,4 +1,4 @@
-# Ω Olympus Smart Contracts
+# DiamondDao Smart Contracts
 
 
 ##  🔧 Setting up Local Development
